@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/random-quote-machine/static/js/main.7097b8e4.chunk.js",
+    "main.js.map": "/random-quote-machine/static/js/main.7097b8e4.chunk.js.map",
+    "runtime-main.js": "/random-quote-machine/static/js/runtime-main.5bfcdc4e.js",
+    "runtime-main.js.map": "/random-quote-machine/static/js/runtime-main.5bfcdc4e.js.map",
+    "static/js/2.74e26f8b.chunk.js": "/random-quote-machine/static/js/2.74e26f8b.chunk.js",
+    "static/js/2.74e26f8b.chunk.js.map": "/random-quote-machine/static/js/2.74e26f8b.chunk.js.map",
+    "index.html": "/random-quote-machine/index.html",
+    "static/js/2.74e26f8b.chunk.js.LICENSE.txt": "/random-quote-machine/static/js/2.74e26f8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bfcdc4e.js",
+    "static/js/2.74e26f8b.chunk.js",
+    "static/js/main.7097b8e4.chunk.js"
+  ]
+}
