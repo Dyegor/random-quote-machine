@@ -21,4 +21,4 @@ https://dyegor.github.io/random-quote-machine/
 
 ##Screenshot
 
-![p-2](https://user-images.githubusercontent.com/18030933/106096581-b9808e80-619a-11eb-9794-a38a3c5e5a84.jpg)
+![p-3](https://user-images.githubusercontent.com/18030933/106836142-758f0b80-66fd-11eb-9ca8-899ee44efaac.jpg)
