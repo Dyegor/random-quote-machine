@@ -19,6 +19,6 @@
 ## Live Demo
 https://dyegor.github.io/random-quote-machine/
 
-##Screenshot
+## Screenshot
 
 ![p-3](https://user-images.githubusercontent.com/18030933/106836142-758f0b80-66fd-11eb-9ca8-899ee44efaac.jpg)
